@@ -13,16 +13,19 @@
   "keywords": [
     "HTML",
     "CSS",
-    "SASS",
-    "Beginner"
+    "Sass"
   ],
-  "author": "Mauricio Paternina",
+  "author": {
+    "name": "Mauricio Paternina",
+    "email": "hi@patternina.co",
+    "url": "https://patternina.co"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/spaceinvadev/natours/issues"
   },
   "homepage": "https://github.com/spaceinvadev/natours#readme",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.1"
   }
 }
